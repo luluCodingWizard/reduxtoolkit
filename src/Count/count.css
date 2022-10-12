@@ -1,0 +1,22 @@
+.flex {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+  margin-top: 30px;
+}
+button {
+  background-color: transparent;
+  border: 0;
+  margin: 0 30px;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  font-size: 30px;
+}
+.green {
+  background-color: chartreuse;
+}
+.red {
+  background-color: firebrick;
+  color: white;
+}
